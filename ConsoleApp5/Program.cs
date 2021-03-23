@@ -1,5 +1,5 @@
 ﻿using System;
-
+// evo brate komentar
 namespace ConsoleApp5
 {
     class Program
